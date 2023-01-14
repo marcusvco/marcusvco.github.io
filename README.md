@@ -1,2 +1,2 @@
 # marcusvco.github.io
-My personal website portfolio
+My personal website

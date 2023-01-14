@@ -4,5 +4,12 @@
 
 .home-img{
     border-radius: 100px;
-    
+}
+
+.article{
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 20px;
+    border-radius: 5px;
+    border-color: lightgray;
 }
